@@ -7,7 +7,7 @@ var connection;
     host     : 'localhost',
     user     : 'root',
     password :  null,
-    database : 'burgers' 
+    database : 'burgersdb' 
   });
 }
 
